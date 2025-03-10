@@ -50,7 +50,7 @@ public class LatihanJava2 {
         System.out.println("Bonus = Rp" + bonus);
         System.out.println("Total Gaji Akhir = Rp" + totalGajiAkhir);
 
-
+        // ini contoh merubah isi file untuk tracking perubahan menggunakan git
 
 
 
